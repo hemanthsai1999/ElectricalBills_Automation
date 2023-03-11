@@ -1,0 +1,5 @@
+com\fullTest\ElectricalBill_All.class
+com\fullTest\ElectricalBill.class
+configuration\PropertiesFile.class
+configuration\TakeScreenShots.class
+com\testng\ElectricalBill_TestNG.class
